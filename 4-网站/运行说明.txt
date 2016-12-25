@@ -1,0 +1,2 @@
+1、需要安装pthon2.7、django；
+2、在目录下，运行python manage.py runserver

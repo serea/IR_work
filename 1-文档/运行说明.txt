@@ -1,0 +1,2 @@
+1、需要安装pthon2.7、django1.7.11；
+2、web文件夹中的相应目录下，运行python manage.py runserver。
